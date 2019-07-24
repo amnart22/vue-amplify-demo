@@ -1,5 +1,5 @@
 projects:
-  VueAmplifyAPI:
+  OsforVueAmplifyAPI:
     schemaPath: src\graphql\schema.json
     includes:
       - src\graphql\**\*.js
