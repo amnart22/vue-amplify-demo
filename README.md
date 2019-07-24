@@ -146,3 +146,4 @@ This application uses verbose [logging](https://aws-amplify.github.io/amplify-js
 ## License
 
 This library is licensed under the Apache 2.0 License. 
+# vue-amplify-demo
